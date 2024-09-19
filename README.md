@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web3 projects.<br>🌱 I’m currently learning NextJS , Flutter and Blockchain Dev.<br>💬 Ask me about Tech and Web3.<br>👯 I’m looking to collaborate on interesting Ideas.<br>⚽ Playing Football / Table Tennis in free time. 
+<br>🌱 I’m currently learning NextJS , Flutter and Blockchain Dev.<br>💬 Ask me about Tech and Web3.<br>👯 Looking to collaborate on interesting Ideas.<br>⚽ Playing Football / Table Tennis in free time. 
 
 
 ## 🌐 Socials:
