@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🌱 I’m currently learning NextJS , Flutter and Blockchain Dev.<br>💬 Ask me about Tech and Web3.<br>👯 Looking to collaborate on interesting Ideas.<br>⚽ Playing Football / Table Tennis in free time. 
+🌱 I’m currently learning NextJS , Flutter and Blockchain dev.<br>💬 Ask me about Tech and Web3.<br>👯 Looking to collaborate on interesting Ideas.<br>⚽ Playing Football / Table Tennis in free time. 
 
 
 ## 🌐 Socials:
@@ -14,6 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 
 ### Frameworks and Libraries
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
@@ -38,9 +39,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue)
-
-### Styling Frameworks
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
 
 <details>
